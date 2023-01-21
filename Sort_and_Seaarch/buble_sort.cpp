@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 void Swap(int *i, int *j){
     int p = *i;
     *i = *j;
