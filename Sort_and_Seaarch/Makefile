@@ -7,3 +7,8 @@ merge:
 	g++ merge_sort.cpp -o merge -Werror
 	./merge
 	rm merge
+
+strenth_alg:
+	g++ alg_zm_strench.cpp -o alg -Werror
+	./alg
+	rm alg
